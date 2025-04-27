@@ -6,6 +6,3 @@ documentclass: book
 classoption: openany
 ---
 
-# Create your open textbook
-
-Hello, world!!!
