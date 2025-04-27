@@ -1,3 +1,2 @@
-create-your-open-textbook
 introduction
 purpose
