@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Legal Research Minibook"
+author: "Kyle Brown"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
